@@ -1,4 +1,4 @@
-The corona-runer game is extracted from chrome🪄
+The corona-runer game is extracted from chrome
 
 
 
